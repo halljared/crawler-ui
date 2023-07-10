@@ -1,0 +1,1 @@
+export const TEST_URI = "https://webscraper.io/test-sites/e-commerce/allinone";
